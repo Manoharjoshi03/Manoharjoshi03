@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Manohar Joshi Nandibevur 
 🌱 I’m currently learning Full stack development <br>👯 I’m looking to collaborate on any project based on web development and relevant Technology    <br>💬 Reach out to me at manoharjoshi2019@gmail.com<br><br>
 
 
