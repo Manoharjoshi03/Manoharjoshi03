@@ -1,5 +1,5 @@
 #              Hi, I'm Manohar
-🌱 I’m currently learning Full stack development <br><br>👯 I’m looking to collaborate on any project based on web development and relevant Technologies    <br><br> 💬 Reach out to me at manoharjoshi2019@gmail.com<br><br>
+🌱 I’m currently learning Full stack web development <br><br>👯 I’m looking to collaborate on any project based on web development and relevant Technologies    <br><br> 💬 Reach out to me at manoharjoshi2019@gmail.com<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Manoharjoshi03&icon=0&color=0)](https://visitcount.itsvg.in)
 
