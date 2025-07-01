@@ -18,6 +18,14 @@ Embedded Systems & IoT:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-44cc11?style=flat&logo=freertos&logoColor=white)
 
+🔌 Communication Protocols
+
+![UART](https://img.shields.io/badge/UART-007ACC?style=flat-square&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-FF9900?style=flat-square&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-006400?style=flat-square&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN%20Bus-228B22?style=flat-square&logoColor=white)
+![RS232](https://img.shields.io/badge/RS232-8B0000?style=flat-square&logoColor=white)
+
 Tools & Platforms:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
